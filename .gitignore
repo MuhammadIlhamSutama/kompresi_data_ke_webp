@@ -25,5 +25,4 @@ ENV/
 .vscode/
 .idea/
 
-# Output folders
-images/output/
+
